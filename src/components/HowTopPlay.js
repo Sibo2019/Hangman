@@ -12,7 +12,7 @@ export default function HowToPlay() {
                   As the letters in the word are guessed correctly, the letter will be inserted in the word
                   space(underscores). If a letter not in <br/>the word is guessed, the "hanger-thingy" and the person will be drawn, 
                    one part for each incorrect letter guess. <br/> This is drawn in 10 part. thats a max of 10 incorrect
-                   guesses. Easy right!!.</p>
+                   guesses. Easy right.</p>
                    <h3>Ready to try playing?</h3>
                   <p>The best way to learn is by doing. Give it a try.</p>
                 <br />
